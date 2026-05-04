@@ -1,0 +1,19 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+*.egg-info/
+dist/
+build/
+
+# Data (don't upload large files)
+data/raw/*.csv
+data/processed/*.csv
+*.pkl
+
+# OS
+.DS_Store

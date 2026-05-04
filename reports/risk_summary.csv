@@ -1,0 +1,6 @@
+,Churn Probability,Churn Probability,Churn Probability
+,count,mean,std
+Risk Segment,,,
+High Risk,468,0.818,0.075
+Low Risk,620,0.129,0.085
+Medium Risk,912,0.533,0.104
