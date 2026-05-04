@@ -256,16 +256,6 @@ docker run -p 8000:8000 churn-prediction-api
 - [ ] MLOps pipeline with MLflow tracking
 - [ ] Reinforcement learning for optimal intervention timing
 
-## 📧 Contact
-
-**Your Name**  
-Data Scientist | Machine Learning Engineer  
-📧 your.email@example.com  
-🔗 [LinkedIn](https://linkedin.com/in/yourprofile)  
-💻 [GitHub](https://github.com/yourusername)  
-
 ---
 
 ⭐ **If this project helped you, please star this repository!**
-
-💼 **Recruiters:** This project demonstrates production-ready ML engineering skills. Let's talk!
